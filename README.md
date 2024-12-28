@@ -1,7 +1,7 @@
 # FMGeneratorYM2612
 A simple, object-oriented, four-operator FM synthesis sample generator based on the Yamaha YM2612 sound chip used in the Sega Genesis.
 
-This project only uses the libraries we used in class (numpy, matplotlib.pyplot, soundfile, IPython.display).
+This project uses numpy, matplotlib.pyplot, soundfile, and IPython.display.
 
 To run the program, you can simply click the "restart kernel and run all cells" button (the two forward arrows).
 
